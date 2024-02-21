@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.bf3e89e4.css",
-    "main.js": "./static/js/main.2512b6cb.js",
+    "main.css": "./static/css/main.07beebd0.css",
+    "main.js": "./static/js/main.f9219d7d.js",
     "static/media/meduware-medusupporter.png": "./static/media/meduware-medusupporter.1a08abae6e5310dde186.png",
     "static/media/secondchanges-profil.png": "./static/media/secondchanges-profil.05b3b632c3e24353f96c.png",
     "static/media/secondchanges-mainpage.png": "./static/media/secondchanges-mainpage.b10d73742b1668c02bd9.png",
     "static/media/meduware-store.png": "./static/media/meduware-store.52f21b8837ec81b388e7.png",
     "static/media/meduware-icerik.png": "./static/media/meduware-icerik.407281d8ee6e3107c322.png",
     "static/media/secondchanges-product.png": "./static/media/secondchanges-product.f857b7e48358cfc98f2d.png",
+    "static/media/algoriddle-about.png": "./static/media/algoriddle-about.a75f8333c7129ff82a79.png",
     "static/media/meduware-mainpage.png": "./static/media/meduware-mainpage.c5482bbfc23d930cc91d.png",
+    "static/media/algoriddle-landing.png": "./static/media/algoriddle-landing.1dc77f96e0aa4d198373.png",
     "static/media/secondchanges-checkout.png": "./static/media/secondchanges-checkout.4cbec3ddfc45665b4164.png",
+    "static/media/discord-chat.png": "./static/media/discord-chat.1c6e06c8768480842d0d.png",
+    "static/media/algoriddle-gameplay.png": "./static/media/algoriddle-gameplay.d70986efd2e418133156.png",
+    "static/media/algoriddle-editor.png": "./static/media/algoriddle-editor.7c67bc840acc2c59ad39.png",
     "static/media/ProfilePic.jpg": "./static/media/ProfilePic.3cb4eaa4c0dd0ed957b3.jpg",
+    "static/media/discord-serversettings.png": "./static/media/discord-serversettings.f46ec8b36099ea53363d.png",
+    "static/media/discord-rolesettings.png": "./static/media/discord-rolesettings.a0320908db66a723b870.png",
+    "static/media/discord-channels.png": "./static/media/discord-channels.74b20706c5949d9571bf.png",
     "index.html": "./index.html",
-    "main.bf3e89e4.css.map": "./static/css/main.bf3e89e4.css.map",
-    "main.2512b6cb.js.map": "./static/js/main.2512b6cb.js.map"
+    "main.07beebd0.css.map": "./static/css/main.07beebd0.css.map",
+    "main.f9219d7d.js.map": "./static/js/main.f9219d7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf3e89e4.css",
-    "static/js/main.2512b6cb.js"
+    "static/css/main.07beebd0.css",
+    "static/js/main.f9219d7d.js"
   ]
 }
