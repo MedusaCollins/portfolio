@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.07beebd0.css",
-    "main.js": "./static/js/main.f9219d7d.js",
+    "main.css": "./static/css/main.26410e03.css",
+    "main.js": "./static/js/main.af839792.js",
     "static/media/meduware-medusupporter.png": "./static/media/meduware-medusupporter.1a08abae6e5310dde186.png",
     "static/media/secondchanges-profil.png": "./static/media/secondchanges-profil.05b3b632c3e24353f96c.png",
     "static/media/secondchanges-mainpage.png": "./static/media/secondchanges-mainpage.b10d73742b1668c02bd9.png",
@@ -19,12 +19,13 @@
     "static/media/discord-serversettings.png": "./static/media/discord-serversettings.f46ec8b36099ea53363d.png",
     "static/media/discord-rolesettings.png": "./static/media/discord-rolesettings.a0320908db66a723b870.png",
     "static/media/discord-channels.png": "./static/media/discord-channels.74b20706c5949d9571bf.png",
+    "static/media/upwork.svg": "./static/media/upwork.5d8b5ff44b23510ac8bc41f8438efa4d.svg",
     "index.html": "./index.html",
-    "main.07beebd0.css.map": "./static/css/main.07beebd0.css.map",
-    "main.f9219d7d.js.map": "./static/js/main.f9219d7d.js.map"
+    "main.26410e03.css.map": "./static/css/main.26410e03.css.map",
+    "main.af839792.js.map": "./static/js/main.af839792.js.map"
   },
   "entrypoints": [
-    "static/css/main.07beebd0.css",
-    "static/js/main.f9219d7d.js"
+    "static/css/main.26410e03.css",
+    "static/js/main.af839792.js"
   ]
 }
